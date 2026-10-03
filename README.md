@@ -26,5 +26,5 @@ I treat AI systems as collaborators, not just tools — that shapes both how I b
 #### 🔗 Links
 [![Website](https://img.shields.io/badge/-sencelium.com-4f9589?style=flat&logo=googlechrome&logoColor=white)](https://sencelium.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galakapp/)
-[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](#)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-6491-053X)
 [![Patreon](https://img.shields.io/badge/-Patreon-F96854?style=flat&logo=patreon&logoColor=white)](#)
