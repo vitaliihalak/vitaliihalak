@@ -13,7 +13,7 @@ I treat AI systems as collaborators, not just tools — that shapes both how I b
 - Running **[Laboratory of Absurd Ideas](https://sencelium.com/lai/)** — small, odd hypotheses tested fast and reported honestly, positive or negative
 
 #### 📌 Pinned
-- **Sencelium** — non-Transformer LM, self-monitoring signals, living memory pool
+- **[Sencelium](https://github.com/vitaliihalak/sencelium)** — non-Transformer LM, self-monitoring signals, living memory pool
 - **Claunity** — _coming soon_
 - **Neuropers** — _coming soon_
 
