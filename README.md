@@ -14,7 +14,7 @@ I treat AI systems as collaborators, not just tools — that shapes both how I b
 
 #### 📌 Pinned
 - **[Sencelium](https://github.com/vitaliihalak/sencelium)** — non-Transformer LM, self-monitoring signals, living memory pool
-- **Claunity** — _coming soon_
+- **[Claunity](https://github.com/vitaliihalak/claunity)** — AI assistant inside the Unity Editor
 - **Neuropers** — _coming soon_
 
 #### 🛠️ Stack
